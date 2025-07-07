@@ -20,3 +20,6 @@
 - Gelişmiş bug bounty metodolojileri
 - Kod inceleme
 - Raporlama ve açıklama yöntemleri
+
+  ## 🌐 Bana LinkedIn'den ulaşabilirsiniz.
+  - LinkedIn: https://www.linkedin.com/in/emredavulcu/
