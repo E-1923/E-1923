@@ -1,4 +1,4 @@
-## 👋 Merhaba, ben Emre
+## 👋 Ben Emre
 
 Şu anda **Bug Bounty** ve **Web Uygulama Güvenliği** alanlarında uzmanlaşmaya odaklanıyorum. Saldırı teknikleri, güvenlik açıkları ve güvenlik araştırmaları üzerine çalışıyorum.
 
@@ -20,7 +20,7 @@
 
 ### 📚 Şu Anda Öğrendiklerim
 - Gelişmiş Bug Bounty metodolojileri  
-- Kod inceleme teknikleri  
+- Kaynak kod inceleme   
 - Etkili raporlama ve açıklama yöntemleri
 
 ---
