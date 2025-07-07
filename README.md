@@ -15,7 +15,6 @@
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-3949ab?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Subfinder](https://img.shields.io/badge/Subfinder-2e7d32?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![Amass](https://img.shields.io/badge/Amass-6d4c41?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1f8ac0?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 📚 Şu Anda Öğrendiklerim
