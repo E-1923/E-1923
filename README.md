@@ -24,5 +24,5 @@
 
 ---
 
-📫 **Benimle iletişime geçmek istersen:**  
+📫 **Benimle iletişime geçmek için:**  
 [linkedin.com/in/emredavulcu](https://www.linkedin.com/in/emredavulcu/)
